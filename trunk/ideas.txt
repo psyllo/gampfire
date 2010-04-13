@@ -1,0 +1,29 @@
+Have a list of rooms
+  - Check boxes
+    - Listen
+    - Join
+  - When selected
+    - Show room UI
+    - Chat message box is disabled until you select 'Join'
+Text to match and alert for
+  - Trigger code to run for certain matches (bot like functionality)
+     - Looks in a directory for the given file for each trigger
+     - One time triggers
+Private chat.
+  - Use encrypted messages.
+  - Maybe create a dedicated PrivateChat room where all
+    there is are a bunch of encrypted private messages.
+Autocomplete names
+  - Tab on message input
+  - @nick any where in the message gets exanded on spacebar
+Combine all channels into one 'room'
+  - Have a way to click and reply to that room
+  - Enable disable (filter) room streams
+  - When a room has been disabled, have a less obvious
+    secondary stream, like a status bar.
+  - Auto assign colors to rooms
+  - As you type the text of the message, it's the color of the room.
+Replies
+  - Show the message replied to and the ability to expand the thread
+    This way all messages are ordered cronologically but you can still
+    drill down into the history for each message.
